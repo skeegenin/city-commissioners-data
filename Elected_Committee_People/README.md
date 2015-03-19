@@ -4,10 +4,7 @@ Source: City Commissioners' Office
 
 Summary
 --------------------------
-Data on the recipients of grant monies funded by the Philadelphia Water Department, including the Stormwater Management Incentive Program, the Soak it Up! Program, and the Green Acres Retrofit Program.
 
-To learn more about the Stormwater Management Incentive Program and Green Acres Retrofit Program, [check out this site](http://pidc-pa.org/blog/stormwater-management-incentives-program-and-greened-acre-retrofit-program-now-accepted-on-a-rolling-basis/).
-More information about the [Soak it Up! Program can be found here](http://www.phillywatersheds.org/what_were_doing/community_partnerships/programs/soak-it-adoption).
 
 Details
 -----------------
@@ -33,10 +30,9 @@ Field Descriptions
 
 |Field|Description of Field|Type of Field|
 |:----|:-------------------|:------------|
-|Recipient|The name of the individual or organization who was awarded the grant money.|Text|
-|Program/Purpose|The program/purpose for which grant money was being disbursed.|Text|
-|Award Amount|The amount of grant money disbursed to the recipient for the given program or purpose.|Currency|
-|Fiscal Year|The fiscal year in which the grant money was awarded to the recipient.  Fiscal Years start on July 1st of the calendar year.|Number|
-|Funding Source|The department or agency supplying the funds for the program or purpose.|Text|
-|Managing Entity|The entity responsible for managing applications and disbursement of the funds.|Text|
-|Project Site|The location at which improvements will be made utilizing the funds.|Text|
+|Precinct|Political precinct represented by the committee person. Formatted as Ward Number and Ward Division (i.e. WW-DD).|Text|
+|Name|Name of elected committeeperson|Text|
+|Address|Address of elected committeeperson|Text|
+|Zip|Zip code|Text|
+|Type||Text|
+|Party|Political party affiliation where D represents Democrat and R represents Republican.|Text|
