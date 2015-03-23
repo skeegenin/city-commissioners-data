@@ -1,10 +1,10 @@
-## Qualified Voter Registry
+## Voter Turnout
 
 Source: City Commissioners Office
 
 Summary
 --------------------------
-Data on registered voters and election participation aggregated by voter attributes, election and district.
+Information regarding individuals who have voted and when. This data can be exported from SURE and can be broken down into various reports for voter, election, and district information. It can be segmented by district, party, political boundaries, address, date of changes, etc.
 
 
 Details
@@ -12,18 +12,18 @@ Details
 
 | Attribute | Details |
 | ---------- |--------------|
-| Title | Qualified Voter Registry |
+| Title | Voter Turnout |
 | Department | City Commissioners |
 | Contact Name | Seth Bluestein |
 | Contact E-mail | seth.bluestein@phila.gov |
-| Contents | Information regarding individuals who are registered to vote. This data is broken down into various reports for voter, election, and district information. |
+| Contents | Information regarding individuals who have voted and when. This data can be exported from SURE and can be broken down into various reports for voter, election, and district information. It can be segmented by district, party, political boundaries, address, date of changes, etc. |
 | Purpose | Various reports for registered voters and election participation are used by campaigns to target voters. |
-| Date Range | February 2015 |
-| Format | CSV |
+| Date Range | 2005-Present |
+| Format | Paper or Excel |
 | Data Hygiene | 5 - Very High |
 | Data Accuracy | 5 - Very High |
-| Frequency	| Twice Annually |
-| Last Updated	| 02/15 |
+| Frequency	| Regularly updated except during the window right before and right after each election |
+| Last Updated	| Present |
 
 
 Field Descriptions
