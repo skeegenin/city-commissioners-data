@@ -18,11 +18,11 @@ Details
 | Contents | Names, addresses, parties, pursued positions, and unofficial signature totals for individuals running for office. |
 | Purpose | Internally, this information is used to create the ballot. Externally, candidates and campaigns will want to know who their opponents are. |
 | Date Range | 2015 Primary |
-| Format | CSV |
+| Format | Paper |
 | Data Hygiene | 5 |
 | Data Accuracy | 5 |
 | Frequency	| Prior to each Election |
-
+| Last Updated	| March 2015 |
 
 Field Descriptions
 --------------------------
