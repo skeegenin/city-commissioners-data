@@ -15,7 +15,7 @@ Details
 | Department | City Commissioners Office |
 | Contact Name | Seth Bluestein |
 | Contact E-mail | seth.bluestein@phila.gov |
-| Contents | Names, addresses, parties, pursued positions, and unofficial signature totals for individuals running for office. |
+| Contents | Names, addresses, parties, pursued positions, and unofficial signature totals for individuals running for office. The number of signatures were self reported by the candidates. The department verifies that the minimum number of required signatures was reached but has not independently verified the total unofficial number of signatures reported.|
 | Purpose | Internally, this information is used to create the ballot. Externally, candidates and campaigns will want to know who their opponents are. |
 | Date Range | 2015 Primary |
 | Format | Paper |
