@@ -4,7 +4,7 @@ Source: City Commissioners Office
 
 Summary
 --------------------------
-This data set contains the list of polling places. It can be organized by ward/division, accessibility rating, or type of building.
+This data set contains the list of polling places. It can be organized by ward/division, accessibility rating, or type of building. Any applications should utilize the API available at [phlapi.com/pollingplaces](http://phlapi.com/pollingplaces).
 
 Details
 -----------------
