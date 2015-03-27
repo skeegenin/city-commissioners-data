@@ -37,4 +37,4 @@ Field Descriptions
 |Zip|Corresponding zipcode to the home address|Text|
 |Office|Political office that the unofficial candidate is seeking|Text|
 |Party|Political party of the unofficial candidate|Text|
-|Unofficial Signatures Totals|The total amount of collected petition signatures collected by the unofficial candidte|Text|
+|Unofficial Signatures Totals|The total amount of collected petition signatures collected by the unofficial candidte|Number|
