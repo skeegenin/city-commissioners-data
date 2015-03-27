@@ -30,9 +30,9 @@ Field Descriptions
 
 |Field|Description of Field|Type of Field|
 |:----|:-------------------|:------------|
-|Precinct|Political precinct represented by the committee person. Formatted as Ward Number and Ward Division (i.e. WW-DD).|Text|
+|Precinct|Political precinct represented by the committeeperson. Formatted as Ward Number and Ward Division (i.e. WW-DD).|Text|
 |Name|Name of elected committeeperson|Text|
 |Address|Address of elected committeeperson|Text|
 |Zip|Zip code|Text|
-|Type||Text|
+|Type|Entry type. Values include: M= Machine Vote; WI= Write-in; WI-NR= Write-in Not Registered|Text|
 |Party|Political party affiliation where D represents Democrat and R represents Republican.|Text|
