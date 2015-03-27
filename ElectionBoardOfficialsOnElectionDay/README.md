@@ -55,8 +55,6 @@ Group Code Look Up Table
 
 |Group-Code|Description of Code|
 |:---------|:------------------|
-|1|Judge of Election|
-|2|Majority Inspector|
-|3|Minority Inspector|
-|4|Clerk|
-|5|Machine Inspector|
+|1|Election Board|
+|2|Polling Place Inspector|
+|3|Polling Place rental|
